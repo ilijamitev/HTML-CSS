@@ -1,0 +1,138 @@
+@import url('https://fonts.googleapis.com/css2?family=Cookie&family=Corinthia&family=Dancing+Script:wght@400;500;600;700&family=Indie+Flower&family=Pacifico&display=swap');
+
+body {
+    background-color: #f1dca7;
+    font-family: cursive;
+}
+input {
+    font-family: inherit;
+}
+button {
+    font-family: inherit;
+}
+a {
+    text-decoration: none;
+}
+::selection {
+    background-color: #9e643a;
+    color: #fdcf78;
+}
+
+
+
+
+header.top-header-section {
+    background-color: #baa587;
+}
+header.top-header-section > h1 > a {
+    color: #f1dca7;
+    font-size: 1.5em;
+    font-family: "Pacifico";
+}
+#search-blog-header {
+    font-size: 1.2em;
+    background-color: blanchedalmond;
+    color: #b1936d;
+}
+#search-blog-header:focus {
+    font-size: 1.5em;
+}
+#search-blog-header::placeholder {
+    color: #978863;
+}
+header.top-header-section button {
+    font-size: 1.2em;
+    background-color: blanchedalmond;
+}
+.top-header-section button a {
+    color: #978863;
+}
+.top-header-section button:active {
+    background-color: #ffcb69;
+}
+
+
+
+
+main {
+    background-color: #d08c60;
+}
+h2 {
+    font-size: 1.7em;
+    
+}
+article footer button {
+    background-color: #baa587;
+}
+article footer button:hover {
+    background-color: blanchedalmond;
+}
+article footer button:active {
+    background-color: #ffcb69;
+}
+
+article  footer img {
+    width: 1.7em;
+    vertical-align: text-bottom;
+}
+article footer a {
+    font-size: 1em;
+    color: #505531;
+}
+section > p {
+    text-align: justify;
+}
+h3 + p {
+   font-style: italic;
+   font-size: .9em;
+   text-decoration: underline black solid 1.5px;
+}
+section {
+    background-color: #b58463;
+}
+.article-section1 > p {
+    background-color: #b88e72;
+    font-family: 'Dancing Script';
+    font-size: 1.5em;
+}
+.article-section2 > p {
+    background-color: #b88e72;
+    font-family: 'Corinthia';
+    font-size: 1.8em;
+}
+.article-section3 > p {
+    background-color: #b88e72;
+    font-family: 'Cookie';
+    font-size: 1.7em;
+}
+.article-section4 > p {
+    background-color: #b88e72;
+    font-family: 'Indie Flower';
+    font-size: 1.3em;
+}
+.article-section5 > p {
+    background-color: #b88e72;
+    font-family: "Pacifico";
+    font-size: 1.2em;
+}
+#back-to-top-button {
+    background-color: blanchedalmond;
+}
+#back-to-top-button a {
+    color: #978863;
+    font-size: 1.5em;
+}
+
+
+
+
+nav {
+    background-color: #e8ac65;
+}
+
+
+
+
+footer.bottom-footer {
+    background-color: #997b66;
+}
