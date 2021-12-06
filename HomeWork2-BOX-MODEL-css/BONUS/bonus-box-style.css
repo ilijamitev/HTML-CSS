@@ -1,0 +1,167 @@
+.div-container {
+width: 902px;
+height: 880px;
+border: hidden;
+background-color: black;
+position: relative;
+}
+
+.div-container div {
+    position: absolute;
+}
+
+#div1 {
+    width: 220px;
+    height: 88px;
+    background-color: rgb(229, 238, 235);
+}
+
+#div2 {
+    width: 325px;
+    height: 88px;
+    background-color: rgb(242, 231, 213);
+    left: 238px;
+}
+
+#div3 {
+    width: 257px;
+    height: 88px;
+    background-color: rgb(242, 201, 104);
+    left: 581px;
+}
+
+#div4 {
+    width: 46px;
+    height: 676px;
+    background-color: rgb(252, 253, 231);
+    /* left: 856px; */
+    top: 0px;
+    right: 0px;
+}
+
+#div5 {
+    width: 105px;
+    height: 217px;
+    background-color: rgb(251, 253, 231);
+    top: 106px;
+}
+
+#div6 {
+    width: 440px;
+    height: 453px;
+    background-color: rgb(214, 45, 36);
+    top: 106px;
+    left: 123px;
+}
+
+#div7 {
+    width: 257px;
+    height: 217px;
+    background-color: rgb(237, 204, 107);
+    left: 581px;
+    top: 106px;
+}
+
+#div8 {
+    width: 119px;
+    height: 218px;
+    background-color: rgb(223, 229, 208);
+    left: 581px;
+    top: 341px;
+}
+
+#div9 {
+    width: 120px;
+    height: 218px;
+    background-color: rgb(242, 238, 226);
+    left: 718px;
+    top: 341px;
+}
+
+#div10 {
+    width: 105px;
+    height: 335px;
+    background-color: rgb(225, 234, 229);
+    top: 341px;
+}
+
+#div11 {
+    width: 105px;
+    height: 186px;
+    background-color: rgb(244, 198, 90);
+    top: 694px;
+}
+
+#div12 {
+    width: 211px;
+    height: 198px;
+    background-color: rgb(19, 4, 9);
+    top: 577px;
+    left: 123px;
+}
+
+#div13 {
+    width: 211px;
+    height: 87px;
+    background-color: rgb(227, 222, 217);
+    /* top: 793px; */
+    left: 123px;
+    bottom: 0px;
+}
+
+#div14 {
+    width: 211px;
+    height: 99px;
+    background-color: rgb(192, 191, 186);
+    top: 577px;
+    left: 352px;
+}
+
+#div15 {
+    width: 211px;
+    height: 81px;
+    background-color: rgb(222, 226, 212);
+    top: 694px;
+    left: 352px;
+}
+
+#div16 {
+    width: 211px;
+    height: 41px;
+    background-color: rgb(19, 4, 9);
+    top: 793px;
+    left: 352px;
+}
+
+#div17 {
+    width: 486px;
+    height: 28px;
+    background-color: rgb(224, 224, 223);
+    top: 852px;
+    left: 352px;
+}
+
+#div18 {
+    width: 257px;
+    height: 99px;
+    background-color: rgb(214, 222, 224);
+    top: 577px;
+    left: 581px;
+}
+
+#div19 {
+    width: 257px;
+    height: 140px;
+    background-color: rgb(36, 23, 133);
+    top: 694px;
+    left: 581px;
+}
+
+#div20 {
+    width: 46px;
+    height: 186px;
+    background-color: rgb(215, 54, 48);
+    /* top: 694px; */
+    right: 0px;
+    bottom: 0px;
+}
